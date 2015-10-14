@@ -1,0 +1,1 @@
+export const MAIN_STATE_UPDATED = 'MAIN_STATE_UPDATED';
